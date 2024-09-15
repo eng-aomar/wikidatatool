@@ -1,4 +1,4 @@
-"""Main module."""
+
 from pandas import json_normalize
 from SPARQLWrapper import JSON, SPARQLWrapper
 
