@@ -1,4 +1,4 @@
-# wikidatatool
+# Wikidata Tool
 
 
 [![image](https://img.shields.io/pypi/v/wikidatatool.svg)](https://pypi.python.org/pypi/wikidatatool)
